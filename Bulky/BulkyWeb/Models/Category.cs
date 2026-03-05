@@ -1,0 +1,14 @@
+﻿using System.ComponentModel.DataAnnotations;
+using System.Security.Principal;
+
+namespace BulkyWeb.Models
+{
+    public class Category
+    {
+      //  [Key]   // isso chama dat Annotation, serve para indicar qual variável é a chave primária.
+        public int Id { get; set; }
+        [Required] // define que as varivéis do objeto precisam ser preenchidas antes de enviar, mas se não indicar nada, isso ja é definido por default
+        public string Name { get; set; }
+        public int DisplayOrder { get; set; }
+    }
+}
