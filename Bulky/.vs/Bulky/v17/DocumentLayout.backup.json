@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Git\\Github\\BulkyWeb\\Bulky\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +46,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T13:54:20.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T12:10:42.341Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -48,14 +82,14 @@
               "RelativeDocumentMoniker": "BulkyWeb\\Models\\Category.cs",
               "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Models\\Category.cs",
               "RelativeToolTip": "BulkyWeb\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T18:25:23.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Delete.cshtml",
@@ -63,12 +97,11 @@
               "RelativeToolTip": "BulkyWeb\\Views\\Category\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-09T18:22:18.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T18:22:18.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Home\\Index.cshtml",
@@ -81,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Create.cshtml",
@@ -89,44 +122,42 @@
               "RelativeToolTip": "BulkyWeb\\Views\\Category\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-09T17:28:24.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T17:28:24.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Edit.cshtml",
               "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Category\\Edit.cshtml",
               "RelativeToolTip": "BulkyWeb\\Views\\Category\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-09T17:28:18.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T17:28:18.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Category\\Index.cshtml*",
+              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-09T17:02:07.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "BulkyWeb\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAmwHMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T16:29:20.383Z",
               "EditorCaption": ""
