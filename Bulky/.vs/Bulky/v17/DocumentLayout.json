@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Git\\Github\\BulkyWeb\\Bulky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A50BE0A-5AB8-4DAD-A8CD-35E016273AEB}|BulkywebRazer_temp\\BulkywebRazer_temp.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkywebrazer_temp\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A50BE0A-5AB8-4DAD-A8CD-35E016273AEB}|BulkywebRazer_temp\\BulkywebRazer_temp.csproj|solutionrelative:bulkywebrazer_temp\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A50BE0A-5AB8-4DAD-A8CD-35E016273AEB}|BulkywebRazer_temp\\BulkywebRazer_temp.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkywebrazer_temp\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A50BE0A-5AB8-4DAD-A8CD-35E016273AEB}|BulkywebRazer_temp\\BulkywebRazer_temp.csproj|solutionrelative:bulkywebrazer_temp\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A50BE0A-5AB8-4DAD-A8CD-35E016273AEB}|BulkywebRazer_temp\\BulkywebRazer_temp.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkywebrazer_temp\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A50BE0A-5AB8-4DAD-A8CD-35E016273AEB}|BulkywebRazer_temp\\BulkywebRazer_temp.csproj|solutionrelative:bulkywebrazer_temp\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A50BE0A-5AB8-4DAD-A8CD-35E016273AEB}|BulkywebRazer_temp\\BulkywebRazer_temp.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkywebrazer_temp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A50BE0A-5AB8-4DAD-A8CD-35E016273AEB}|BulkywebRazer_temp\\BulkywebRazer_temp.csproj|solutionrelative:bulkywebrazer_temp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6A50BE0A-5AB8-4DAD-A8CD-35E016273AEB}|BulkywebRazer_temp\\BulkywebRazer_temp.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkywebrazer_temp\\pages\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A50BE0A-5AB8-4DAD-A8CD-35E016273AEB}|BulkywebRazer_temp\\BulkywebRazer_temp.csproj|solutionrelative:bulkywebrazer_temp\\pages\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6A50BE0A-5AB8-4DAD-A8CD-35E016273AEB}|BulkywebRazer_temp\\BulkywebRazer_temp.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkywebrazer_temp\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A50BE0A-5AB8-4DAD-A8CD-35E016273AEB}|BulkywebRazer_temp\\BulkywebRazer_temp.csproj|solutionrelative:bulkywebrazer_temp\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkyweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0049755-7A29-413A-9761-383D1A284668}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6A50BE0A-5AB8-4DAD-A8CD-35E016273AEB}|BulkywebRazer_temp\\BulkywebRazer_temp.csproj|c:\\git\\github\\bulkyweb\\bulky\\bulkywebrazer_temp\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A50BE0A-5AB8-4DAD-A8CD-35E016273AEB}|BulkywebRazer_temp\\BulkywebRazer_temp.csproj|solutionrelative:bulkywebrazer_temp\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,24 +46,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkywebRazer_temp\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "BulkywebRazer_temp\\Pages\\Categories\\Create.cshtml.cs",
+              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkywebRazer_temp\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeToolTip": "BulkywebRazer_temp\\Pages\\Categories\\Create.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T14:11:22.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T13:54:20.628Z",
+              "WhenOpened": "2026-03-23T14:09:55.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkywebRazer_temp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkywebRazer_temp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkywebRazer_temp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BulkywebRazer_temp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-23T14:08:45.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkywebRazer_temp\\Pages\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "BulkywebRazer_temp\\Pages\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkywebRazer_temp\\Pages\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "BulkywebRazer_temp\\Pages\\Shared\\_Notification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-23T14:07:58.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_Notification.cshtml",
               "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Shared\\_Notification.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Notification.cshtml",
@@ -71,95 +110,59 @@
               "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Notification.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T12:10:42.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Models\\Category.cs",
-              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Models\\Category.cs",
-              "RelativeToolTip": "BulkyWeb\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T18:25:23.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Category\\Delete.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Delete.cshtml",
-              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Category\\Delete.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-09T18:22:18.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-09T17:41:04.505Z",
+              "WhenOpened": "2026-03-23T14:06:54.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkywebRazer_temp\\Pages\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BulkywebRazer_temp\\Pages\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkywebRazer_temp\\Pages\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "BulkywebRazer_temp\\Pages\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-09T17:28:24.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Category\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Edit.cshtml",
-              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Category\\Edit.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-09T17:28:18.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-09T17:02:07.866Z",
+              "WhenOpened": "2026-03-23T13:58:43.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkyWeb\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "BulkyWeb\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAQwGgAAAAMAAAAAAAAAA==",
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkywebRazer_temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "BulkywebRazer_temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkywebRazer_temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeToolTip": "BulkywebRazer_temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T16:29:20.383Z",
+              "WhenOpened": "2026-03-23T13:56:05.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkywebRazer_temp\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "BulkywebRazer_temp\\Pages\\Categories\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkywebRazer_temp\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeToolTip": "BulkywebRazer_temp\\Pages\\Categories\\Delete.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T20:10:58.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkywebRazer_temp\\Pages\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BulkywebRazer_temp\\Pages\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Git\\Github\\BulkyWeb\\Bulky\\BulkywebRazer_temp\\Pages\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "BulkywebRazer_temp\\Pages\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T19:54:53.889Z",
               "EditorCaption": ""
             }
           ]
