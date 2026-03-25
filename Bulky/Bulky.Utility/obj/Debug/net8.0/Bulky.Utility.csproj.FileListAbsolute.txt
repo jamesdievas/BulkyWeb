@@ -1,0 +1,15 @@
+C:\Git\Github\BulkyWeb\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+C:\Git\Github\BulkyWeb\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.runtimeconfig.json
+C:\Git\Github\BulkyWeb\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Git\Github\BulkyWeb\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Git\Github\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Git\Github\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Github\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Git\Github\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+C:\Git\Github\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Git\Github\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
+C:\Git\Github\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+C:\Git\Github\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+C:\Git\Github\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+C:\Git\Github\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.genruntimeconfig.cache
+C:\Git\Github\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll

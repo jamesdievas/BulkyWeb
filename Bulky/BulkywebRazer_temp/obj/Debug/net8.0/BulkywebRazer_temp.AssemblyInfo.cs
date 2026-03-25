@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulkywebRazer_temp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c77804e19c2008d45c0575939f2fcebb1e6cbbb2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d0c6626812f118a256c7f85a1aa13c48a38231c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulkywebRazer_temp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulkywebRazer_temp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
